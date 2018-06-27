@@ -1,7 +1,7 @@
 {
   "name": "tubugl-generate-geometry",
-  "version": "1.0.0",
-  "description": "utility functions which generates simple geometry on the fly",
+  "version": "1.0.1",
+  "description": "utility functions which generates simple geometry on the fly.",
   "cjs": "build/tubu-generate-geometry.cjs.js",
   "esm": "build/tubu-generate-geometry.esm.js",
   "main": "build/tubu-generate-geometry.js",

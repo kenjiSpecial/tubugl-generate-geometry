@@ -16,7 +16,8 @@ export default [
 		output: {
 			name: pkg.libName,
 			file: pkg.main,
-			format: 'umd'
+			format: 'umd',
+			extend: true
 		},
 		plugins: [
 			babel(babelrc()),
